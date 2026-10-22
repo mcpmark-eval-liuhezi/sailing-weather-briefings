@@ -41,3 +41,7 @@ Other sailing- and maritime-related organizations doing open-source work on GitH
 - **[Signal K](https://github.com/SignalK)** — the open marine data standard and server ecosystem that lets boats share instrumentation, position and weather data across devices and applications.
 - **[Sailing Yacht Research Foundation](https://github.com/sailing-yacht-research-foundation)** — open-source sailing performance, race analytics and handicapping research.
 - **[bareboat-necessities](https://github.com/bareboat-necessities)** — open-source hardware and software for cruising sailboats (chartplotter, AIS, instrumentation).
+
+## Questions
+
+If anything in a briefing is unclear — a GO/NO-GO call, a number that looks off, the tide or swell detail — **ping the duty officer**. They own the feed and can re-run the forecast or explain the reasoning behind a day's verdict before you take the novice group out.
